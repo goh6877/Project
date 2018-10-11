@@ -11,13 +11,22 @@ namespace Background_Management.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class MembersData
     {
+        [Required]
+        [Display(Name ="登入帳號")]
         public string UserID { get; set; }
+        [Required]
+        [Display(Name = "密碼")]
         public string UserPassWord { get; set; }
+        [Required]
+        [Display(Name = "會員姓名")]
         public string UserName { get; set; }
+        [Display(Name = "電話")]
         public string Phone { get; set; }
+        [Display(Name = "地址")]
         public string Address { get; set; }
     }
 }
