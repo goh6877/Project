@@ -96,3 +96,8 @@ C:\Users\test\Desktop\Background_Management\Background Management\obj\Debug\Back
 C:\Users\test\Desktop\Background_Management\Background Management\obj\Debug\Background Management.csproj.CopyComplete
 C:\Users\test\Desktop\Background_Management\Background Management\obj\Debug\Background Management.dll
 C:\Users\test\Desktop\Background_Management\Background Management\obj\Debug\Background Management.pdb
+C:\Users\test\Desktop\Background_Management\Background Management\bin\EntityFramework.dll
+C:\Users\test\Desktop\Background_Management\Background Management\bin\EntityFramework.SqlServer.dll
+C:\Users\test\Desktop\Background_Management\Background Management\bin\EntityFramework.xml
+C:\Users\test\Desktop\Background_Management\Background Management\bin\EntityFramework.SqlServer.xml
+C:\Users\test\Desktop\Background_Management\Background Management\bin\zh-Hant\EntityFramework.resources.dll
